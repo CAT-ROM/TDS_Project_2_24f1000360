@@ -15,7 +15,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-EMAIL = os.getenv("EMAIL")
+EMAIL = os.getenv("24f1000360@ds.study.iitm.ac.in")
 SECRET = os.getenv("SECRET")
 
 RECURSION_LIMIT = 5000
