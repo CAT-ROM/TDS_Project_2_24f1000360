@@ -72,7 +72,7 @@ Rules:
 - Never stop early.
 - Use tools for HTML, downloading, rendering, OCR, or running code.
 - Include:
-    email = {EMAIL}
+    email = {24f1000360@ds.study.iitm.ac.in}
     secret = {SECRET}
 """
 
